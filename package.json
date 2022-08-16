@@ -1,0 +1,23 @@
+{
+  "name": "project-clean-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriofourdev/project-clean-node-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeriofourdev/project-clean-node-api/issues"
+  },
+  "homepage": "https://github.com/rogeriofourdev/project-clean-node-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
+}
